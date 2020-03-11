@@ -14,3 +14,4 @@ _Please chceck the screenshot below to get the idea of comman-line input and tes
 
 ![CLI&Tests](cml1.png)
 ![OutPut](cml2.png)
+![AnimatedCML](teamBuidlerV.mp4)
