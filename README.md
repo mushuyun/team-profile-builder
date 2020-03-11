@@ -13,6 +13,6 @@ __There are 4 constructed classes for different types of employees and 4 unit te
 _Please chceck the screenshot below to get the idea of comman-line input and testing procedure, as wells as the generated front page:_
 
 ![CLI&Tests](cml1.png)
+
 ![OutPut](cml2.png)
 
-![<img src="https://[<img src="https://drive.google.com/file/d/1uz4NZz6K4AEF7JclVhDNR1NfzKkZwDMh/view?usp=sharing.jpg" width="50%">](https://drive.google.com/file/d/1uz4NZz6K4AEF7JclVhDNR1NfzKkZwDMh/view?usp=sharing)
