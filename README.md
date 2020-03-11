@@ -10,7 +10,7 @@ __The installation steps include:__
 
 __There are 4 constructed classes for different types of employees and 4 unit tests to make sure each employee has all the information required.__
 
-Please chceck the screenshot below to get the idea of comman-line input and testing procedure:
+_Please chceck the screenshot below to get the idea of comman-line input and testing procedure, as wells as the generated front page:_
 
 ![CLI&Tests](cml1.png)
 ![OutPut](cml2.png)
