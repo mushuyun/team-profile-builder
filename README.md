@@ -1,5 +1,5 @@
 # team-profile-builder
-##### Using command-line application to add team member to the team
+#### Using command-line application to add team member to the team
 
 This is a team member generating app. It uses command-line to enter different types of emaployees then generate a front page to show everybody in the team. 
 
